@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My3GButton</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_3gOnOff">Mobile Connection ON / OFF</string>
+    <string name="str_noActiviteNetwork">No Network is activited.</string>
+    <string name="str_noActivite3GNetwork">No Activite Mobile Network</string>
+    <string name="str_3gConnected">Mobile Data Connected using %1$s \r\nType %2$s %3$s</string>
+
+</resources>
